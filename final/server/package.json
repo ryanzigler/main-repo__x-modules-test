@@ -1,0 +1,19 @@
+{
+  "name": "main-repo__x-modules-test",
+  "version": "1.0.0",
+  "description": "Test Git X-Modules",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "dependencies": {
+    "apollo-server": "^3.11.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.6.0",
+    "nodemon": "^2.0.20"
+  },
+  "author": "",
+  "license": "MIT"
+}
